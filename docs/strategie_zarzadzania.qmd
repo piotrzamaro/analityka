@@ -18,7 +18,11 @@ format:
 #    title-block-banner: true
     title-block-style: default
     title-block-logo: logo.png
-
+ #   code-fold: true
+    code-tools:
+      source: true
+      toggle: false
+      caption: "Pokaż kod"    
     toc: true
     toc-location: left      # ← poprawnie: right lub left
 #    number-sections: true    
@@ -30,12 +34,13 @@ format:
     fig-align: center
     css: styles.css
     link-external-icon: true
-#    link-external-newwindow: true
+    link-external-newwindow: true
     df-print: paged             # ← dodaje wyszukiwarkę
 #bibliography: bibliografia.bib
 #csl: styl.csl
 editor: visual
-
+project:
+  output-dir: docs
 header-includes: |
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
 ---
