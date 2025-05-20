@@ -46,15 +46,15 @@ header-includes: |
 ---
 
 <div style="text-align: center; margin-bottom: 1em;">
-  <a href="https://github.com/twojprofil" target="_blank" title="GitHub">
+  <a href="https://github.com/piotrzamaro" target="_blank" title="GitHub">
     <i class="fab fa-github fa-2x"></i>
   </a>
   &nbsp;
-  <a href="https://twitter.com/twojprofil" target="_blank" title="Twitter">
+  <a href="https://twitter.com/" target="_blank" title="Twitter">
     <i class="fab fa-twitter fa-2x"></i>
   </a>
   &nbsp;
-  <a href="https://linkedin.com/in/twojprofil" target="_blank" title="LinkedIn">
+  <a href="https://linkedin.com/in/piotr_zamaro" target="_blank" title="LinkedIn">
     <i class="fab fa-linkedin fa-2x"></i>
   </a>
 </div>
